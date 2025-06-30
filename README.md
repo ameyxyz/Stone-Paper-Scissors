@@ -4,6 +4,7 @@ A fun and interactive Rock Paper Scissors game built using vanilla HTML, CSS, an
 
 🔗 Live Demo
 👉 Click here to play now
+https://ameyxyz.github.io/Stone-Paper-Scissors/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧠 About the Project
